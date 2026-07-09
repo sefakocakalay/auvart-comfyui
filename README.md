@@ -28,13 +28,13 @@ Bu repo'yu ComfyUI'nin `custom_nodes` klasorune klonla:
 
 ```
 cd ComfyUI/custom_nodes        # portable surumde: ComfyUI_windows_portable/ComfyUI/custom_nodes
-git clone https://github.com/KULLANICI_ADI/ComfyUI-Auvart-Experimental.git
+git clone https://github.com/sefakocakalay/auvart-comfyui.git
 ```
 
 ### 3. Bagimliliklari yukle
 
 ```
-pip install -r ComfyUI-Auvart-Experimental/requirements.txt
+pip install -r auvart-comfyui/requirements.txt
 ```
 
 Portable surum kullaniyorsan pip yerine:
